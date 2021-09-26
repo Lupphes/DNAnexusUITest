@@ -1,0 +1,27 @@
+{
+  "name": "dnanexus-ui-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLupp/DNAnexusUITest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLupp/DNAnexusUITest/issues"
+  },
+  "homepage": "https://github.com/TheLupp/DNAnexusUITest#readme"
+}

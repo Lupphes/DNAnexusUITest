@@ -107,3 +107,10 @@ dist
 cypress/downloads
 cypress/screenshots
 cypress/videos
+
+# Cypress Exampless
+cypress/fixtures
+cypress/support
+cypress/plugins
+cypress/integration/1-getting-started
+cypress/integration/2-advanced-examples
