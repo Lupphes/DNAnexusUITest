@@ -34,3 +34,10 @@ The script will check the following:
 3. Items are loading after order query
 4. Basket number raising and not empty
 5. Basket containing sum of the most expensive items
+
+## Instalation
+1. Run `npm i` to install all packages
+2. Run `npm run cypress:run` for CLI test or `npm run cypress:open` for GUI test
+
+# Video
+Inside `cypress/videos` there is a video from the output.

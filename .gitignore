@@ -106,9 +106,7 @@ dist
 # Cypress
 cypress/downloads
 cypress/screenshots
-cypress/videos
 
 # Cypress Exampless
 cypress/fixtures
-cypress/integration/1-getting-started
-cypress/integration/2-advanced-examples
+
