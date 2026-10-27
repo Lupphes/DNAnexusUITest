@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "typescript": "^4.4.3"
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "cypress": "^8.4.1"
+    "cypress": "^16.2.0"
   },
   "scripts": {
     "cypress:open": "cypress open",
